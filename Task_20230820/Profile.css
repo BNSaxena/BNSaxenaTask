@@ -1,0 +1,50 @@
+
+
+.background{
+    background-image:url("/Task_20230820/images/Officebk.png");
+    position: relative;
+    backface-visibility:inherit;
+    height: 500px;
+    background-size: auto;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-background-size: cover;
+    
+}
+.img-pic {
+    border: 3px solid sandybrown;
+}
+
+.container{
+    margin-top: 50px;
+}
+.container1{
+    background-color: rgb(223, 135, 20);
+    position:relative;
+    margin-top: 100px;
+}
+.container2{
+    background-color: rgb(15, 14, 13);
+    position:relative;
+}
+.container3{
+    background-color: white;
+    position: relative;
+}
+
+h1{
+    width: 100px;
+    height: 50px;
+   background-color: rgb(223, 135, 20);
+   
+}
+
+.img-2{
+    padding-left: 100px;
+}
+
+::before, ::after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
